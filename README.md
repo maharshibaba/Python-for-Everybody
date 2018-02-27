@@ -15,24 +15,24 @@ _This Specialization builds on the success of the Python for Everybody course an
 - **Programming for Everybody (Getting Started with Python)**
 
   - _You can click [over here](https://www.coursera.org/learn/python) to know more about course_
-  - _Also for solutions of assignments click [here]()_
+  - _Also for solutions of assignments click [here](https://github.com/rishav-pandey/Python-for-Everybody/tree/master/course-1)_
 
 - **Python Data Structures**
 
   - _You can click [over here](https://www.coursera.org/learn/python-data) to know more about course_
-  - _Also for solutions of assignments click [here]()_
+  - _Also for solutions of assignments click [here](https://github.com/rishav-pandey/Python-for-Everybody/tree/master/course-2)_
 
 - **Using Python to Access Web Data**
 
   - _You can click [over here](https://www.coursera.org/learn/python-network-data) to know more about course_
-  - _Also for solutions of assignments click [here]()_
+  - _Also for solutions of assignments click [here](https://github.com/rishav-pandey/Python-for-Everybody/tree/master/course-3)_
 
 - **Using Databases with Python**
 
   - _You can click [over here](https://www.coursera.org/learn/python-databases) to know more about course_
-  - _Also for solutions of assignments click [here]()_
+  - _Also for solutions of assignments click [here](https://github.com/rishav-pandey/Python-for-Everybody/tree/master/course-4)_
 
 - **Capstone: Retrieving, Processing, and Visualizing Data with Python**
 
   - _You can click [over here](https://www.coursera.org/learn/python-data-visualization) to know more about course_
-  - _Also for solutions of assignments click [here]()_
+  - _Also for solutions of assignments click [here](https://github.com/rishav-pandey/Python-for-Everybody/tree/master/course-5)_
